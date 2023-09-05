@@ -5,7 +5,7 @@ This project offers an open-source implimentation of [σReparam](https://arxiv.o
 σReparam + pre-LN 💯
 
 
-Evaluation Summary:
+Summary:
 
     Tasks: Image classification, self-supervised learning, machine translation, automatic speech recognition, and language modeling.
     Findings:
