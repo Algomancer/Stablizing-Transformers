@@ -14,3 +14,15 @@ Tasks: Image classification, self-supervised learning, machine translation, auto
 4. Machine Translation: σReparam stabilizes deep post-LN architectures (up to 100L-100L encoder-decoder layers).
 5. Speech Recognition: σReparam stabilizes post-LN Transformer training, simplifying the recipe.
 6. Language Modeling: σReparam works well with causal Transformer architectures, matching state-of-the-art performance without post-LN.
+
+
+```
+@misc{zhai2023stabilizing,
+      title={Stabilizing Transformer Training by Preventing Attention Entropy Collapse}, 
+      author={Shuangfei Zhai and Tatiana Likhomanenko and Etai Littwin and Dan Busbridge and Jason Ramapuram and Yizhe Zhang and Jiatao Gu and Josh Susskind},
+      year={2023},
+      eprint={2303.06296},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
