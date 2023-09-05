@@ -8,8 +8,6 @@ This project offers an open-source implimentation of [σReparam](https://arxiv.o
 ### Summary
 Tasks: Image classification, self-supervised learning, machine translation, automatic speech recognition, and language modeling.
 
-Paper Findings:
-
 1. Observed entropy collapse in various baseline models.
 2. Image Classification: σReparam simplifies ViT training, removing several components, and reduces training time by 16%.
 3. Self-Supervised Learning: σReparam enhances SimCLR training stability and robustness.
